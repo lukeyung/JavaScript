@@ -1,0 +1,29 @@
+.centered
+{
+    text-align: center;
+    margin: 0 auto;  
+    display: block; 
+    }
+.hidden {
+    visibility: hidden;
+    }
+.show {
+    visibility: visible;
+    }
+button:hover {
+        background-color: aqua;
+    }
+label {
+    color: inherit; 
+    font: inherit; 
+    margin: 0; 
+    }
+.hidden {
+    display: none;
+    }
+.show {
+    display: block;
+    }
+    .selected {
+        background-color: purple;
+        }
